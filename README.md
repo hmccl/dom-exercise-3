@@ -11,3 +11,4 @@ A página a seguir permite o acesso ao exercício.
 - Rafael
 - José Macedo
 - Hélio
+- Emanoel
